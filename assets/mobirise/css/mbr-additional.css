@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
@@ -1204,79 +1205,6 @@ section.form .container {
   font-size: 30px;
 }
 
-#ext_menu-21 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-21 .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-21 .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-21 .close-icon::before,
-#ext_menu-21 .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-21 .link,
-#ext_menu-21 .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-21 .link {
-  font-size: 0.75rem;
-}
-#ext_menu-21 .dropdown-item,
-#ext_menu-21 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-21 .link:hover,
-#ext_menu-21 .dropdown-item:hover,
-#ext_menu-21 .link:focus,
-#ext_menu-21 .dropdown-item:focus {
-  color: #c0a375;
-}
-#ext_menu-21 .link[aria-expanded="true"],
-#ext_menu-21 .dropdown-menu {
-  background: #0e0e0e;
-}
-#ext_menu-21 .nav-dropdown-sm .link:focus,
-#ext_menu-21 .nav-dropdown-sm .link:hover,
-#ext_menu-21 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-21 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#ext_menu-21 .navbar,
-#ext_menu-21 .nav-dropdown-sm,
-#ext_menu-21 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-21 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#ext_menu-21 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-21 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-21 .bg-color.transparent.opened .link:hover,
-#ext_menu-21 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#ext_menu-21 .link[aria-expanded="true"],
-#ext_menu-21 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#extTable1-4d TD {
-  text-align: center;
-}
-#extTable1-4d TH {
-  text-align: center;
-  font-size: 14px;
-  font-family: 'Raleway', sans-serif;
-}
-#extForm1-24 H2 {
-  font-size: 30px;
-}
-
 
 
 #ext_menu-2l .hide-buttons .nav-btn {
@@ -1915,4 +1843,77 @@ section.form .container {
 #ext_menu-57 .link[aria-expanded="true"],
 #ext_menu-57 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+
+#ext_menu-21 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-21 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-21 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-21 .close-icon::before,
+#ext_menu-21 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-21 .link,
+#ext_menu-21 .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-21 .link {
+  font-size: 0.75rem;
+}
+#ext_menu-21 .dropdown-item,
+#ext_menu-21 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-21 .link:hover,
+#ext_menu-21 .dropdown-item:hover,
+#ext_menu-21 .link:focus,
+#ext_menu-21 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-21 .link[aria-expanded="true"],
+#ext_menu-21 .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-21 .nav-dropdown-sm .link:focus,
+#ext_menu-21 .nav-dropdown-sm .link:hover,
+#ext_menu-21 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-21 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-21 .navbar,
+#ext_menu-21 .nav-dropdown-sm,
+#ext_menu-21 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-21 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-21 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-21 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-21 .bg-color.transparent.opened .link:hover,
+#ext_menu-21 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-21 .link[aria-expanded="true"],
+#ext_menu-21 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#extTable1-4d TD {
+  text-align: center;
+}
+#extTable1-4d TH {
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+}
+#extForm1-24 H2 {
+  font-size: 30px;
 }

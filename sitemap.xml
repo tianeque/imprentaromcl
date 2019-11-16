@@ -21,9 +21,6 @@
 		<loc>http://imprentarom.cl/formularios-1-2-carta.html</loc>
 	</url>
 	<url>
-		<loc>http://imprentarom.cl/boletas-1-2-carta.html</loc>
-	</url>
-	<url>
 		<loc>http://imprentarom.cl/formularios-1-4-carta.html</loc>
 	</url>
 	<url>
@@ -49,5 +46,8 @@
 	</url>
 	<url>
 		<loc>http://imprentarom.cl/page16.html</loc>
+	</url>
+	<url>
+		<loc>http://imprentarom.cl/recetarios-medicos.html</loc>
 	</url>
 </urlset>

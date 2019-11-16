@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Imprenta",
-    "currentPage": "productos.html",
+    "currentPage": "boletas5x1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 213,
-    "versionPublish": "4.11.4",
+    "versionPublish": "4.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -935,17 +935,17 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/recetarios-22-600x828.png",
+              "src": "@PROJECT_PATH@/assets/images/2017-11-24-photo-220-890x576.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "recetarios-medicos.html",
+              "link": "calendarios.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title6": "Recetarios Médicos",
+          "title6": "Calendarios",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "media6_1": {
@@ -3250,6 +3250,339 @@
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br>Eleuterio Ramírez 644<br>Santiago, Chile<br><br>(En Waze: Marín 644)<br><br><br>\n<strong>Datos de Contacto</strong><br>\nEmail: castilloartecastillo@gmail.com<br>\nFono: +56 22 222 5821 - +56 22 635 4052<br>\nFax: +56 22 222 5821",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Pasos para una cotización.</strong></p><ul><li>Llámanos al 22 222 5821 &nbsp; &nbsp; &nbsp;ó</li><li>Envía un correo a castilloartecastillo@gmail.com</li><li>Indica los requerimientos de tu trabajo (material, diseño, etc.)</li><li>En base a eso te haremos un presupuesto.</li></ul>",
           "_anchor": "contacts2-2k"
+        }
+      ]
+    },
+    "boletas-1-2-carta.html": {
+      "settings": {
+        "title": "Imprenta ROM - Boletas 1/2 Carta",
+        "meta_descr": "Lista de precios talonarios de Boletas 1/2 Carta",
+        "order": 10
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logorom-158x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://imprentarom.cl",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IMPRENTA ROM</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"productos.html\">PRODUCTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-b\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_anchor": "ext_menu-21"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/boleta-media-carta-3-1033x728.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Talonarios de Boletas 1/2 Carta",
+          "text": "Boletas de Ventas y Servicios y de Honorarios.<br>Tamaño Aproximado 13 x 20 cm.<br>Plazo de entrega 3 días hábiles",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-22"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "12",
+            "colCount": "3",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "Precios Boletas 1/2 Carta",
+          "search": "Busqueda:",
+          "info1": "Mostrando",
+          "info2": "valores",
+          "info3": "de",
+          "info4": "en total",
+          "table": "<thead><tr><th>Talonarios</th><th>Cantidad</th><th>Precio Con IVA</th></tr></thead><tbody><tr><td>1</td><td>50</td><td>$ 8.000</td></tr><tr><td>2</td><td>100</td><td>$ 12.000</td></tr><tr><td>4</td><td>200</td><td>$ 20.500</td></tr><tr><td>5</td><td>250</td><td>$ 22.200</td></tr><tr><td>6</td><td>300</td><td>$ 23.700</td></tr><tr><td>8</td><td>400</td><td>$ 26.900</td></tr><tr><td>10</td><td>500</td><td>$ 30.000</td></tr><tr><td>20</td><td>1.000</td><td>$ 45.800</td></tr><tr><td>40</td><td>2.000</td><td>$ 87.500</td></tr><tr><td>60</td><td>3.000</td><td>$ 129.000</td></tr><tr><td>80</td><td>4.000</td><td>$ 170.000</td></tr><tr><td>100</td><td>5.000</td><td>$ 212.000</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extensión"
+          ],
+          "_name": "extTable1",
+          "_styles": {
+            "TD": {
+              "text-align": "center"
+            },
+            "TH": {
+              "text-align": "center",
+              "font-size": "14px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "extTable1-4d"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm1",
+          "_params": {
+            "showTitle": true,
+            "showContacts": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showIcons": true,
+            "showForm": true,
+            "inverse": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extForm1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1,
+            "iconsColor": "#333333",
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-primary\">BUY</a>"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/consultoria-sobre-seguros-600x600.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "color": "@primaryColor"
+            }
+          },
+          "title": "¿Tienes una duda?<br>Llámanos! o envía un mensaje",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "share",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title1": "Correo",
+          "subTitle1": "Puedes enviarnos un correo<br>para responder tus dudas",
+          "text1": "",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#666666"
+            }
+          },
+          "title2": "Llamada",
+          "subTitle2": "Nos puedes llamar al<br>22 222 5821",
+          "text2": "",
+          "form": {
+            "action": "sebastian.castillo.s@gmail.com",
+            "alerts": {
+              "success": "Gracias por enviarnos tu mensaje"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "_styles": {
+            "H2": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "extForm1-24"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Eleuterio Ramírez 644",
+              "placeId": "ChIJcSUx3HTFYpYRzy1yJjBBHlw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br>Eleuterio Ramírez 644<br>Santiago, Chile<br><br>(En Waze: Marín 644)<br><br><br>\n<strong>Datos de Contacto</strong><br>\nEmail: castilloartecastillo@gmail.com<br>\nFono: +56 22 222 5821 - +56 22 635 4052<br>\nFax: +56 22 222 5821",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Pasos para una cotización.</strong></p><ul><li>Llámanos al 22 222 5821 &nbsp; &nbsp; &nbsp;ó</li><li>Envía un correo a castilloartecastillo@gmail.com</li><li>Indica los requerimientos de tu trabajo (material, diseño, etc.)</li><li>En base a eso te haremos un presupuesto.</li></ul>",
+          "_anchor": "contacts2-25"
         }
       ]
     },
@@ -7889,339 +8222,6 @@
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br>Eleuterio Ramírez 644<br>Santiago, Chile<br><br>(En Waze: Marín 644)<br><br><br>\n<strong>Datos de Contacto</strong><br>\nEmail: castilloartecastillo@gmail.com<br>\nFono: +56 22 222 5821 - +56 22 635 4052<br>\nFax: +56 22 222 5821",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Pasos para una cotización.</strong></p><ul><li>Llámanos al 22 222 5821 &nbsp; &nbsp; &nbsp;ó</li><li>Envía un correo a castilloartecastillo@gmail.com</li><li>Indica los requerimientos de tu trabajo (material, diseño, etc.)</li><li>En base a eso te haremos un presupuesto.</li></ul>",
           "_anchor": "contacts2-58"
-        }
-      ]
-    },
-    "recetarios-medicos.html": {
-      "settings": {
-        "title": "Imprenta ROM - Recetarios Médicos",
-        "meta_descr": "Lista de precios talonarios de Recetarios Médicos",
-        "order": 10
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logorom-158x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://imprentarom.cl",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IMPRENTA ROM</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"productos.html\">PRODUCTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-b\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_anchor": "ext_menu-21"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/recetarios-medidas-ancha-20-1400x1004.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Talonarios de Recetarios Médicos",
-          "text": "Tamaño Aproximado 13 x 20 cm.<br>Plazo de entrega 3 días hábiles.<br><br><b>Nota: La venta de recetarios solo puede ser solicitada por profesionales autorizados, ImprentaROM no realizará trabajos en condiciones que estén fuera de la ley.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-22"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSearch": false,
-            "rowСount": "12",
-            "colCount": "3",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/sky.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.4
-          },
-          "title": "Precios Recetarios Médicos",
-          "search": "Busqueda:",
-          "info1": "Mostrando",
-          "info2": "valores",
-          "info3": "de",
-          "info4": "en total",
-          "table": "<thead><tr><th>Talonarios</th><th>Cantidad</th><th>Precio Con IVA</th></tr></thead><tbody><tr><td>1</td><td>100</td><td>$ 8.000</td></tr><tr><td>2</td><td>200</td><td>$ 12.000</td></tr><tr><td>4</td><td>400</td><td>$ 20.500</td></tr><tr><td>5</td><td>500</td><td>$ 22.200</td></tr><tr><td>6</td><td>600</td><td>$ 23.700</td></tr><tr><td>8</td><td>800</td><td>$ 26.900</td></tr><tr><td>10</td><td>1000</td><td>$ 30.000</td></tr><tr><td>20</td><td>2.000</td><td>$ 45.800</td></tr><tr><td>40</td><td>4.000</td><td>$ 87.500</td></tr><tr><td><br></td><td><br></td><td><br></td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extensión"
-          ],
-          "_name": "extTable1",
-          "_styles": {
-            "TD": {
-              "text-align": "center"
-            },
-            "TH": {
-              "text-align": "center",
-              "font-size": "14px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "extTable1-4d"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extForm1",
-          "_params": {
-            "showTitle": true,
-            "showContacts": true,
-            "showSubtitle": true,
-            "showText": true,
-            "showIcons": true,
-            "showForm": true,
-            "inverse": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extForm1_bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#e9e9e9",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1,
-            "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-primary\">BUY</a>"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/consultoria-sobre-seguros-600x600.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "size": 0,
-              "class": "mbr-iconfont mbr-iconfont-header2 ",
-              "color": "@primaryColor"
-            }
-          },
-          "title": "¿Tienes una duda?<br>Llámanos! o envía un mensaje",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "share",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
-          "title1": "Correo",
-          "subTitle1": "Puedes enviarnos un correo<br>para responder tus dudas",
-          "text1": "",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "#666666"
-            }
-          },
-          "title2": "Llamada",
-          "subTitle2": "Nos puedes llamar al<br>22 222 5821",
-          "text2": "",
-          "form": {
-            "action": "sebastian.castillo.s@gmail.com",
-            "alerts": {
-              "success": "Gracias por enviarnos tu mensaje"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Nombre"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Teléfono"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "Mensaje"
-              }
-            }
-          },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
-          "_styles": {
-            "H2": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "extForm1-24"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Eleuterio Ramírez 644",
-              "placeId": "ChIJcSUx3HTFYpYRzy1yJjBBHlw",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br>Eleuterio Ramírez 644<br>Santiago, Chile<br><br>(En Waze: Marín 644)<br><br><br>\n<strong>Datos de Contacto</strong><br>\nEmail: castilloartecastillo@gmail.com<br>\nFono: +56 22 222 5821 - +56 22 635 4052<br>\nFax: +56 22 222 5821",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Pasos para una cotización.</strong></p><ul><li>Llámanos al 22 222 5821 &nbsp; &nbsp; &nbsp;ó</li><li>Envía un correo a castilloartecastillo@gmail.com</li><li>Indica los requerimientos de tu trabajo (material, diseño, etc.)</li><li>En base a eso te haremos un presupuesto.</li></ul>",
-          "_anchor": "contacts2-25"
         }
       ]
     }
