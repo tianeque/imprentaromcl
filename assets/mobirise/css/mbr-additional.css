@@ -719,6 +719,13 @@ section.form .container {
 .theme-border {
   border: 1px solid #c0a375;
 }
+#header3-5x .mbr-section-title,
+#header3-5x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5x .mbr-section-title {
+  font-size: 30px;
+}
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -927,6 +934,13 @@ section.form .container {
 #ext_menu-1g .link[aria-expanded="true"],
 #ext_menu-1g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header3-5y .mbr-section-title,
+#header3-5y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5y .mbr-section-title {
+  font-size: 30px;
 }
 #extTable1-1j TD {
   text-align: center;
