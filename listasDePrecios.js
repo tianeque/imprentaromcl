@@ -57,6 +57,28 @@ const listaDePreciosConIva = (precios, idTabla) => {
   tabla.innerHTML = template;
 };
 
+// Nombres de variables de precios (Objects Arrays)
+// precioMediaCartaDuplicado
+// precioMediaCartaTriplicado
+// precioMediaCartaCuadruplicado
+// precioMedioOficioDuplicado
+// precioMedioOficioTriplicado
+// precioMedioOficioCuadruplicado
+// precioCuartoCartaDuplicado
+// precioCuartoCartaTriplicado
+// precioCuartoCartaCuadruplicado
+// precioCuartoOficioDuplicado
+// precioCuartoOficioTriplicado
+// precioCuartoOficioCuadruplicado
+// precioCartaDuplicado
+// precioCartaTriplicado
+// precioCartaCuadruplicado
+// precioOficioDuplicado
+// precioOficioTriplicado
+// precioOficioCuadruplicado
+// preciosBoletaCuartoCarta
+// preciosBoletaMediaCarta
+
 const preciosProductos = {
   precioMediaCartaDuplicado: [
     {
